@@ -7,5 +7,3 @@ The general idea is to have a ready-to-go MEAN stack template to quickly stage a
 
 ## The Technical
 #### Getting Started
-
-### Etc.
